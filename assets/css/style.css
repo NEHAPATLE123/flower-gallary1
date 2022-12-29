@@ -1,0 +1,58 @@
+
+.all div{
+    height: 250px;
+    border: 1px solid blue;
+    margin-bottom: 15px;
+    overflow : hidden;
+    
+
+}
+.redrose img {
+    height: 250px;
+    object-fit: cover;
+    width:100%;
+    margin-bottom:15px;
+    border-radius: 30px;
+    border: 2px solid black;
+}
+.pinkrose img {
+    height:250px;
+    object-fit:cover;
+    width:100%;
+    margin-bottom:15px;
+    border-radius: 30px;
+    border: 2px solid black;
+}
+.yellowrose img{
+    height:250px;
+    object-fit:cover;
+    width:100%;
+    margin-bottom:15px;
+    border-radius: 30px;
+    border: 2px solid black;  
+}
+.whiterose img{
+    height:250px;
+    object-fit:cover;
+    width:100%;
+    margin-bottom:15px; 
+    border-radius: 30px;
+    border: 2px solid black; 
+}
+.bluerose img {
+    height:250px;
+    object-fit:cover;
+    width:100%;
+    margin-bottom:15px; 
+    border-radius: 30px;
+    border: 2px solid black; 
+}  
+
+
+
+
+
+
+
+
+
